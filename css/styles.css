@@ -54,6 +54,9 @@ a {
 img {
   display: block;
 }
+button {
+  cursor: pointer;
+}
 
 /* ---------- Шапка сайта (Хеддер) ---------- */
 
