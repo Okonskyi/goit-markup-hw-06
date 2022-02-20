@@ -424,7 +424,6 @@ button {
   display: inline-flex;
   justify-content: center;
   align-items: center;
-  style: none;
   background-color: rgba(255, 255, 255, 0.1);
   width: 44px;
   height: 44px;
@@ -482,7 +481,6 @@ button {
   cursor: pointer;
 }
 .subscribe-text {
-  style: none;
   padding-top: 10px;
   padding-bottom: 10px;
   padding-left: 28px;
@@ -768,7 +766,6 @@ button {
   display: inline-flex;
   justify-content: center;
   align-items: center;
-  style: none;
   background-color: var(--main-bcg-color);
   width: 44px;
   height: 44px;
@@ -820,8 +817,6 @@ button {
   justify-content: center;
   align-items: center;
   padding: 0;
-  margin: 0;
-  style: none;
   margin-bottom: 94px;
 }
 .partners-block {
